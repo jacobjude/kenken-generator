@@ -16,5 +16,8 @@ in case the former doesn't work
 
 ## Future Plans
 -Replace the pygame GUI with a WebGUI
+
 -Add a max cage size option
+
 -Clean up (barely functioning) code
+
